@@ -7,7 +7,7 @@ The dataset on which the 4 hidden layered neural network model is trained and te
 
 The dataset is divided into two parts `train` and `test`
 ## Model Accuracy
-The model acheived a train accuracy of $98.2\%$ and a test accuracy of $80.13\%$. 
+The model acheived a train accuracy of $98.5\%$ and a test accuracy of $80\%$. 
 
 This project is inspired by the course `Neural Networks and Deep Learning` by Andrew N. G.
 
